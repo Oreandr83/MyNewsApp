@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/favorite"
+        android:title="Favorite"
+        android:icon="@drawable/ic_favorite"/>
+    <item
+        android:id="@+id/photo_news"
+        android:title="News"
+        android:icon="@drawable/ic_info"/>
+    <item
+        android:id="@+id/info"
+        android:title="Info"
+        android:icon="@drawable/ic_device_info"/>
+
+</menu>

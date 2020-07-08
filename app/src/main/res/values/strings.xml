@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyNewsApp</string>
+
+    <string name="splash_screen">NEWS</string>
+    <string name="news">NEWS</string>
+    <string name="search">Search</string>
+
+
+</resources>
